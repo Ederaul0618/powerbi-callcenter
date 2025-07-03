@@ -7,6 +7,8 @@ Este repositorio contiene un dashboard interactivo desarrollado en Power BI para
 - ASA (Average Speed of Answer)
 - Llamadas atendidas vs. no atendidas
 - Análisis por agente y por hora
+- KPI asistencia agentes/médicos
+- Bono utlizando metricas dadas por el encargado del area
 
 ## Archivo incluido
 - `CallCenterDashboard.pbix`: Informe completo desarrollado en Power BI.
